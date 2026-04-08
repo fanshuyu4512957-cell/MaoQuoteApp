@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">毛选语录卡牌</string>
+    <string name="draw_card">抽取今日卡牌</string>
+    <string name="today_quote">今日语录</string>
+</resources>
